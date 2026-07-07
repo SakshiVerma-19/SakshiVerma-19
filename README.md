@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=800&lines=🌌+Building+AI+for+new+frontiers;🛰️+Classified+Aerospace+Research+at+ISRO;🛸+200%2B+AR+Lenses+%7C+100M%2B+Views;🤖+Deep+Learning+%26+Generative+AI;✨+Always+creating%2C+always+shipping!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=800&lines=🌌+Building+AI+for+new+frontiers;🛰️+Research+at+ISRO;🛸+200%2B+AR+Lenses+%7C+100M%2B+Views;🤖+Deep+Learning+%26+Generative+AI;✨+Always+creating%2C+always+shipping!" alt="Typing SVG" />
 </a><br/><br/>
 
 <!-- Neon Badges row -->
@@ -33,30 +33,30 @@
 
 <br/>
 
-### 👽 Who Am I?
+### Who Am I?
 ```python
 class Sakshi:
     name       = "Sakshi Verma"
     degree     = "B.E. in AI & ML · Cambridge Institute of Technology"
     cgpa       = "8.79 / 10 🏅"
     location   = "Bangalore, India 🇮🇳"
-    research   = "Classified ISRO Collaborative Project 🛰️"
+    research   = "ISRO Project 🛰️"
 
     skills     = ["Gen AI", "Computer Vision", "RAG Pipelines", 
                   "Spatial ML", "IoT Architectures", "UI/UX Design"]
 
     currently  = {
         "🔭 building"    : "AMD Slingshot 2026 — AI thumbnail analyzer",
-        "🛰️ researching" : "Classified aerospace & ML initiatives for ISRO 🌌",
+        "🛰️ researching" : "AQI prediction model for ISRO",
         "🌱 learning"    : "MLOps · Advanced RAG · Spatial Data Science",
         "🎨 creating"    : "AR lenses with 100M+ global views 🛸",
     }
 
     fun_facts  = [
         "I teach AR creation — 40+ learners and counting! 🧑‍🏫",
-        "My AR lenses have crossed the 100 million views milestone 🌟",
+        "My AR lenses have crossed the 150 million views milestone 🌟",
         "I led a content team that tripled social media engagement 📈",
-        "I designed a smart anti-assault jacket concept for a college ideathon 🪖"
+        "I love creating content 🪖"
     ]
 ```
 
@@ -66,25 +66,25 @@ class Sakshi:
 
 <div align="center">
 
-**[ ⬛ CLASSIFIED ISRO RESEARCH ]**
+**[ ISRO RESEARCH ]**
 *Top Secret / Collaborative Research Project · Software Team*
 Applying advanced Machine Learning to spatial and satellite datasets. Specific architectures, parameters, and mission objectives are strictly confidential. 🌌
 
 <br/>
 
-**🧠 DocuMend — Document QA System**
+**DocuMend — Document QA System**
 RAG-powered document Q&A with page-level citations.
 *20% higher retrieval accuracy via recursive semantic chunking · ~30% less irrelevant context in top-k results*
 
 <br/>
 
-**🎯 PitchPerfect — Serverless Sales Automation**
+**PitchPerfect — Serverless Sales Automation**
 Automated prospect research: scrapes corporate domains, matches tech stacks to product docs, generates personalized outreach.
 *90% reduction in manual pre-sales research time*
 
 <br/>
 
-**🔫 Weapon Detector — Real-Time CV System**
+**Weapon Detector — Real-Time CV System**
 Fine-tuned YOLOv8 for live suspicious-object detection. Benchmarked YOLOv8n · YOLOv8m · YOLOv5n by mAP & inference latency.
 *YOLOv8m achieved best accuracy for edge deployment*
 
@@ -103,7 +103,7 @@ Fine-tuned YOLOv8 for live suspicious-object detection. Benchmarked YOLOv8n · Y
 
 <br/>
 
-<h3 align="center">🌠 Beyond the Code — The Full Picture</h3>
+<h3 align="center">Beyond the Code — The Full Picture</h3>
 
 <div align="center">
 
@@ -117,16 +117,11 @@ Fine-tuned YOLOv8 for live suspicious-object detection. Benchmarked YOLOv8n · Y
 <br/>
 
 ### 🏆 Achievements & Competitions
-- 🥇 **Academic Excellence Medal** — Cambridge Institute of Technology
-- 🛰️ **ISRO Research Contributor** — as a 3rd-year undergraduate
-- 🎮 **AMD Slingshot 2026** — Gen AI for Everyone Track (Ongoing)
-- 💡 **College Ideathon** — Smart anti-assault wearable concept
+- **Academic Excellence Medal** — Cambridge Institute of Technology
+-  **ISRO Research Contributor** — as a 3rd-year undergraduate
+-  **AMD Slingshot 2026** — Gen AI for Everyone Track (Participant)
+-  **NCC C certificate holder (AIR WING)
 
-### 📜 Certifications
-- 🌐 Intro to Gen AI · Prompt Design in Vertex AI — Google Cloud
-- 🤖 AI Foundation Associate — Oracle Cloud
-- 📊 Data Science for Engineers · DSA with Java — NPTEL
-- 🚀 Gen AI Academy — Hack2Skill 2025
 
 <br/>
 
