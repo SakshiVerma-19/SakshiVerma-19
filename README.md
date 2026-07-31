@@ -1,138 +1,167 @@
 <div align="center">
-<!-- Animated space/pink header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C10,50:FF1493,100:0B0C10&height=220&section=header&text=Hey%2C%20I'm%20Sakshi!%20🚀&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=AI%2FML%20Engineer%20%E2%80%A2%20ISRO%20Researcher%20%E2%80%A2%20AR%20Creator&descColor=FFB6C1&descAlignY=75&descSize=16" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C10,50:FF1493,100:0B0C10&height=180&section=header&text=Sakshi%20Verma&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=55&desc=AI%2FML%20Engineer&descColor=FFB6C1&descAlignY=75&descSize=16" />
+
 <br/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&pause=1000&color=FF1493&center=true&vCenter=true&width=800&lines=🌌+Building+AI+for+new+frontiers;🛰️+Research+at+ISRO;🛸+200%2B+AR+Lenses+%7C+100M%2B+Views;🤖+Deep+Learning+%26+Generative+AI;✨+Always+creating%2C+always+shipping!" alt="Typing SVG" />
-</a><br/><br/>
-
-<!-- Neon Badges row -->
 <a href="https://linkedin.com/in/sakshivermasv">
-  <img src="https://img.shields.io/badge/LinkedIn-%23FF1493.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://sakshiverma19-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-%23FF1493.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://sakshi-aiml-portfolio.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-FF1493?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-<a href="https://www.leetcode.com/sekushi20">
-  <img src="https://img.shields.io/badge/LeetCode-%23FF1493.svg?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://github.com/SakshiVerma-19">
+  <img src="https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:sakshi.ve@outlook.com">
-  <img src="https://img.shields.io/badge/Email-%23FF1493.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
 </a>
-<a href="https://twitter.com/sakshii_vermaa">
-  <img src="https://img.shields.io/badge/Twitter-%23FF1493.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://www.youtube.com/c/_sakshive_">
-  <img src="https://img.shields.io/badge/YouTube-%23FF1493.svg?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=sakshiverma-19&label=Profile+Views&color=ff1493&style=flat-square" />
+
 </div>
 
 <br/>
 
-### Who Am I?
-```python
-class Sakshi:
-    name       = "Sakshi Verma"
-    degree     = "B.E. in AI & ML · Cambridge Institute of Technology"
-    cgpa       = "8.79 / 10 🏅"
-    location   = "Bangalore, India 🇮🇳"
-    research   = "ISRO Project 🛰️"
+## About
 
-    skills     = ["Gen AI", "Computer Vision", "RAG Pipelines", 
-                  "Spatial ML", "IoT Architectures", "UI/UX Design"]
+AI Engineer building scalable REST APIs with FastAPI and production-grade RAG pipelines. Currently a Gen AI Intern at SmartSkale; previously worked on geospatial ML and real-time IoT data pipelines at ISRO.
 
-    currently  = {
-        "🔭 building"    : "AMD Slingshot 2026 — AI thumbnail analyzer",
-        "🛰️ researching" : "AQI prediction model for ISRO",
-        "🌱 learning"    : "MLOps · Advanced RAG · Spatial Data Science",
-        "🎨 creating"    : "AR lenses with 100M+ global views 🛸",
-    }
+**Education:** B.E. in Artificial Intelligence and Machine Learning, Cambridge Institute of Technology, Bengaluru — CGPA 8.82
 
-    fun_facts  = [
-        "I teach AR creation — 40+ learners and counting! 🧑‍🏫",
-        "My AR lenses have crossed the 150 million views milestone 🌟",
-        "I led a content team that tripled social media engagement 📈",
-        "I love creating content 🪖"
-    ]
+<br/>
+
+## Experience
+
+**Gen AI Intern, SmartSkale** — June 2026 – Present
+Database schema migrations with Alembic, URL-based job fetching, and dynamic mock-interview question generation using the Groq API.
+
+**System Engineering & Data Analytics Intern, ISRO** — Nov 2025 – Feb 2026
+Geospatial flood-vulnerability models from satellite imagery, and real-time AWS IoT Core sensor pipelines with validation and anomaly detection.
+
+<br/>
+
+## Projects
+
+**DocuMend — Document QA System**
+LangChain, Gemini 2.5 Flash, Astra DB, Google Embeddings
+ETL pipeline for unstructured text improving retrieval accuracy by 20%; semantic chunking reduced irrelevant context by ~30%.
+
+**PromptCraft — AI Prompt Management & Testing Studio**
+FastAPI, React, TypeScript, PostgreSQL, SQLAlchemy, Alembic
+Full-stack platform for versioning and testing AI prompt templates, with async endpoints for real-time LLM response previews.
+
+**PitchPerfect — Serverless Research Automation**
+Gemini 2.5 Flash, n8n, Astra DB, Airtable
+Automated pipeline for company tech-stack research, reducing manual effort by 90%.
+
+<br/>
+
+## Tech Stack
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+
+**Backend**
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+**Databases & Vector Stores**
+<br/>
+<img src="https://img.shields.io/badge/Astra%20DB-1A1A2E?style=flat-square&logo=apachecassandra&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white"/>
+
+**AI/ML & Data Engineering**
+<br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+
+**Tools**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshiVerma-19&hide_border=true&background=0d0221&ring=ff1493&fire=ff1493&currStreakNum=ffffff&currStreakLabel=ffb6c1&sideNums=ffffff&sideLabels=ffb6c1&dates=ffffff" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SakshiVerma-19&show_icons=true&hide_border=true&bg_color=0d0221&title_color=ff1493&text_color=ffffff&icon_color=ff69b4" height="160"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiVerma-19&layout=compact&hide_border=true&bg_color=0d0221&title_color=ff1493&text_color=ffffff" height="130"/>
+
+</div>
+
+<br/>
+
+## Certifications
+
+System Design (GFG) · Prompt Design in Vertex AI (Google Cloud) · Gen AI Academy (Hack2Skill) · AI Foundation Associate (Oracle Cloud) · Data Science for Engineers (NPTEL) · DSA with Java (NPTEL)
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SakshiVerma-19/SakshiVerma-19/output/github-contribution-grid-snake.svg" width="95%"/>
+</div>
+
+To render this on your profile, add the workflow below as `.github/workflows/snake.yml` in your `SakshiVerma-19/SakshiVerma-19` repo. It generates the SVG automatically from your contribution graph.
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
 <br/>
 
-<h3 align="center">🛰️ Mission Logs & Projects</h3>
-
 <div align="center">
-
-**[ ISRO RESEARCH ]**
-*Top Secret / Collaborative Research Project · Software Team*
-Applying advanced Machine Learning to spatial and satellite datasets. Specific architectures, parameters, and mission objectives are strictly confidential. 🌌
-
-<br/>
-
-**DocuMend — Document QA System**
-RAG-powered document Q&A with page-level citations.
-*20% higher retrieval accuracy via recursive semantic chunking · ~30% less irrelevant context in top-k results*
-
-<br/>
-
-**PitchPerfect — Serverless Sales Automation**
-Automated prospect research: scrapes corporate domains, matches tech stacks to product docs, generates personalized outreach.
-*90% reduction in manual pre-sales research time*
-
-<br/>
-
-**Weapon Detector — Real-Time CV System**
-Fine-tuned YOLOv8 for live suspicious-object detection. Benchmarked YOLOv8n · YOLOv8m · YOLOv5n by mAP & inference latency.
-*YOLOv8m achieved best accuracy for edge deployment*
-
-</div>
-
-<br/>
-
-<h3 align="center">📊 GitHub Stats & Logs</h3>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshiverma-19&hide_border=true&background=0d0221&ring=ff1493&fire=ff1493&currStreakNum=ffffff&currStreakLabel=ffb6c1&sideNums=ffffff&sideLabels=ffb6c1&dates=ffffff" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api?username=sakshiverma-19&show_icons=true&hide_border=true&bg_color=0d0221&title_color=ff1493&text_color=ffffff&icon_color=ff69b4" height="170"/>
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshiverma-19&layout=compact&hide_border=true&bg_color=0d0221&title_color=ff1493&text_color=ffffff" height="140"/>
-</div>
-
-<br/>
-
-<h3 align="center">Beyond the Code — The Full Picture</h3>
-
-<div align="center">
-
-| 🎨 AR Creator | 🎙️ Content Strategist | 🪖 NCC Cadet |
-| :---: | :---: | :---: |
-| 200+ lenses on Snapchat & Meta Spark AR | Led Galactic3D & Under25 CIT teams | 2 KAR (T) AIR SQN · Civil Defence |
-| 100M+ views worldwide | 60% LinkedIn growth · 3× social reach | 2023 – Present |
-
-</div>
-
-<br/>
-
-### 🏆 Achievements & Competitions
-- **Academic Excellence Medal** — Cambridge Institute of Technology
--  **ISRO Research Contributor** — as a 3rd-year undergraduate
--  **AMD Slingshot 2026** — Gen AI for Everyone Track (Participant)
--  **NCC C certificate holder (AIR WING)
-
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshiverma-19&bg_color=0d0221&color=ffffff&line=ff1493&point=ff69b4&area=true&hide_border=true" width="95%"/><br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C10,50:FF1493,100:0B0C10&height=130&section=footer"/>
-<br/>
-
-**💌 Open to AI/ML internships · Research collabs · Creative projects**<br/>
-[sakshi.ve@outlook.com](mailto:sakshi.ve@outlook.com)
-
-*"Build things that matter. Ship things that work. Make things people remember." ✨*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C10,50:FF1493,100:0B0C10&height=110&section=footer"/>
 </div>
