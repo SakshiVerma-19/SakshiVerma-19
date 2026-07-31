@@ -23,13 +23,15 @@
 
 ## About
 
-AI Engineer building scalable REST APIs with FastAPI and production-grade RAG pipelines. Currently a Gen AI Intern at SmartSkale; previously worked on geospatial ML and real-time IoT data pipelines at ISRO.
+I teach machines to read documents so I don't have to. By day I build REST APIs with FastAPI; by night I convince RAG pipelines to stop hallucinating. Previously helped ISRO look at satellites and worry about floods, which is a normal sentence now, apparently.
 
-**Education:** B.E. in Artificial Intelligence and Machine Learning, Cambridge Institute of Technology, Bengaluru — CGPA 8.82
+**Education:** B.E. in Artificial Intelligence and Machine Learning, Cambridge Institute of Technology, Bengaluru — CGPA 8.82 (the 1.18 is still out there somewhere)
 
 <br/>
 
 ## Experience
+
+*(a.k.a. places that pay me to argue with APIs)*
 
 **Gen AI Intern, SmartSkale** — June 2026 – Present
 Database schema migrations with Alembic, URL-based job fetching, and dynamic mock-interview question generation using the Groq API.
@@ -40,6 +42,8 @@ Geospatial flood-vulnerability models from satellite imagery, and real-time AWS 
 <br/>
 
 ## Projects
+
+*(built at 2 a.m., debugged at 4 a.m., presented like it was intentional)*
 
 **DocuMend — Document QA System**
 LangChain, Gemini 2.5 Flash, Astra DB, Google Embeddings
@@ -56,6 +60,8 @@ Automated pipeline for company tech-stack research, reducing manual effort by 90
 <br/>
 
 ## Tech Stack
+
+*(the tools I bribe into working)*
 
 **Languages**
 <br/>
@@ -106,6 +112,8 @@ Automated pipeline for company tech-stack research, reducing manual effort by 90
 
 ## GitHub Stats
 
+*(receipts, since resumes let you lie a little)*
+
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshiVerma-19&hide_border=true&background=0d0221&ring=ff1493&fire=ff1493&currStreakNum=ffffff&currStreakLabel=ffb6c1&sideNums=ffffff&sideLabels=ffb6c1&dates=ffffff" height="160"/>
@@ -121,11 +129,15 @@ Automated pipeline for company tech-stack research, reducing manual effort by 90
 
 ## Certifications
 
+*(proof I sat through the whole course, not just the quiz)*
+
 System Design (GFG) · Prompt Design in Vertex AI (Google Cloud) · Gen AI Academy (Hack2Skill) · AI Foundation Associate (Oracle Cloud) · Data Science for Engineers (NPTEL) · DSA with Java (NPTEL)
 
 <br/>
 
 ## Contribution Snake
+
+*(it eats my commits so I don't have to feel guilty about the gaps)*
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/SakshiVerma-19/SakshiVerma-19/output/github-contribution-grid-snake.svg" width="95%"/>
@@ -163,5 +175,12 @@ jobs:
 <br/>
 
 <div align="center">
+
+*"Gubbanubnub Dooraka."* — Birdperson
+
+<sub>(translation unavailable, but I assume it means "your code compiled, don't get used to it")</sub>
+
+<br/><br/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C10,50:FF1493,100:0B0C10&height=110&section=footer"/>
 </div>
