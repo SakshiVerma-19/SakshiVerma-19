@@ -145,10 +145,6 @@ System Design (GFG) · Prompt Design in Vertex AI (Google Cloud) · Gen AI Acade
 
 <br/>
 
-## Trophy Cabinet
-
-*(GitHub's way of giving out participation medals, and I'll take it)*
-
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=SakshiVerma-19&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
 </div>
