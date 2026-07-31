@@ -143,44 +143,10 @@ System Design (GFG) · Prompt Design in Vertex AI (Google Cloud) · Gen AI Acade
 <img src="https://raw.githubusercontent.com/SakshiVerma-19/SakshiVerma-19/output/github-contribution-grid-snake.svg" width="95%"/>
 </div>
 
-To render this on your profile, add the workflow below as `.github/workflows/snake.yml` in your `SakshiVerma-19/SakshiVerma-19` repo. It generates the SVG automatically from your contribution graph.
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-<br/>
 
 <div align="center">
-
 *"Gubbanubnub Dooraka."* — Birdperson
-
 <sub>(translation unavailable, but I assume it means "your code compiled, don't get used to it")</sub>
-
 <br/><br/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C10,50:FF1493,100:0B0C10&height=110&section=footer"/>
 </div>
