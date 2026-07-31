@@ -135,18 +135,33 @@ System Design (GFG) · Prompt Design in Vertex AI (Google Cloud) · Gen AI Acade
 
 <br/>
 
-## Contribution Snake
+## Joke of the Visit
 
-*(it eats my commits so I don't have to feel guilty about the gaps)*
+*(refreshes itself, unlike my sleep schedule)*
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/SakshiVerma-19/SakshiVerma-19/output/github-contribution-grid-snake.svg" width="95%"/>
+<img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Random Dev Joke" width="80%"/>
 </div>
 
+<br/>
+
+## Trophy Cabinet
+
+*(GitHub's way of giving out participation medals, and I'll take it)*
 
 <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SakshiVerma-19&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
+
+<br/>
+
+<div align="center">
+
 *"Gubbanubnub Dooraka."* — Birdperson
+
 <sub>(translation unavailable, but I assume it means "your code compiled, don't get used to it")</sub>
+
 <br/><br/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0C10,50:FF1493,100:0B0C10&height=110&section=footer"/>
 </div>
