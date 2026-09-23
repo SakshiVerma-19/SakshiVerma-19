@@ -33,7 +33,7 @@ I teach machines to read documents so I don't have to. By day I build REST APIs 
 
 *(a.k.a. places that pay me to argue with APIs)*
 
-**Gen AI Intern, SmartSkale** — June 2026 – Present
+**Gen AI Intern, SmartSkale** — July 2026 – Present
 Database schema migrations with Alembic, URL-based job fetching, and dynamic mock-interview question generation using the Groq API.
 
 **System Engineering & Data Analytics Intern, ISRO** — Nov 2025 – Feb 2026
