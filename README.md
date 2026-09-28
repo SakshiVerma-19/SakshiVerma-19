@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050A18,50:0A1F44,100:050A18&height=200&text=SAKSHI_VERMA&fontSize=54&fontColor=00E5FF&stroke=00E5FF&strokeWidth=2&animation=twinkling&fontAlignY=42&desc=%2F%2F%20AI%2FML%20ENGINEER%20%3A%3A%20RAG%20%2B%20FASTAPI%20%2B%20GEN%20AI&descColor=5AA9FF&descAlignY=68&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050A18,50:0A1F44,100:050A18&height=200&text=SAKSHI VERMA&fontSize=54&fontColor=00E5FF&stroke=00E5FF&strokeWidth=2&animation=twinkling&fontAlignY=42&desc=%2F%2F%20AI%2FML%20ENGINEER%20%3A%3A%20RAG%20%2B%20FASTAPI%20%2B%20GEN%20AI&descColor=5AA9FF&descAlignY=68&descSize=16" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=640&lines=%3E+booting+sakshi.exe...;%3E+teaching+machines+to+read+documents;%3E+convincing+RAG+pipelines+to+stop+hallucinating;%3E+status%3A+online+%26+caffeinated" alt="Typing intro" />
 
