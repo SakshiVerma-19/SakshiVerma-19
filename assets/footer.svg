@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 190" width="1000" height="190">
+<title>End of transmission</title>
+<defs><pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#000" opacity=".38"/></pattern></defs>
+<style>
+  .ecg{stroke-dasharray:1000;animation:draw 4s linear infinite}
+  @keyframes draw{0%{stroke-dashoffset:1000}70%,100%{stroke-dashoffset:0}}
+  .a{animation:ja 4.5s infinite} .b{animation:jb 4.5s infinite}
+  @keyframes ja{0%,88%,100%{transform:translate(-3px,0)}90%{transform:translate(-13px,2px)}94%{transform:translate(8px,0)}}
+  @keyframes jb{0%,88%,100%{transform:translate(3px,0)}92%{transform:translate(12px,-2px)}96%{transform:translate(-9px,0)}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1000" height="190" fill="#050A18"/>
+<path class="ecg" pathLength="1000" d="M0 62H300L318 62L330 30L346 96L360 18L376 62H620L636 62L648 38L662 84L676 62H1000" fill="none" stroke="#00E5FF" stroke-width="2"/>
+<g font-family="'Courier New', Courier, 'SF Mono', Consolas, monospace" font-weight="700" font-size="40">
+  <text class="a" x="236" y="132" textLength="528" lengthAdjust="spacing" fill="#1E6FFF">>> END OF TRANSMISSION</text>
+  <text class="b" x="236" y="132" textLength="528" lengthAdjust="spacing" fill="#00E5FF" opacity=".85">>> END OF TRANSMISSION</text>
+  <text x="236" y="132" textLength="528" lengthAdjust="spacing" fill="#EAF6FF">>> END OF TRANSMISSION</text>
+</g>
+<text x="500" y="164" text-anchor="middle" font-family="'Courier New', Courier, 'SF Mono', Consolas, monospace" font-size="13" fill="#9CC9FF">signal lost. sanity was never found. please recompile and try again.</text>
+<rect width="1000" height="190" fill="url(#scan)"/>
+<rect x="1" y="1" width="998" height="188" fill="none" stroke="#00E5FF" stroke-opacity=".55"/>
+</svg>

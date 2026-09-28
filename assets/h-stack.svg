@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 64" width="1000" height="64">
+<title>WEAPONS_OF_CHOICE</title>
+<defs><linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#00E5FF"/><stop offset="1" stop-color="#1E6FFF" stop-opacity=".2"/></linearGradient></defs>
+<style>
+  .a{animation:ja 5s infinite} .b{animation:jb 5s infinite}
+  @keyframes ja{0%,92%,100%{transform:translate(-2px,0)}94%{transform:translate(-8px,1px)}97%{transform:translate(5px,0)}}
+  @keyframes jb{0%,92%,100%{transform:translate(2px,0)}95%{transform:translate(8px,-1px)}98%{transform:translate(-5px,0)}}
+  .bk{animation:bk 1s steps(1) infinite} @keyframes bk{50%{opacity:0}}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<path d="M4 14V4H16 M4 50V60H16" fill="none" stroke="#00E5FF" stroke-width="2"/>
+<g font-family="'Courier New', Courier, 'SF Mono', Consolas, monospace" font-weight="700" font-size="32">
+  <text class="a" x="44" y="45" textLength="323" lengthAdjust="spacing" fill="#1E6FFF">WEAPONS_OF_CHOICE</text>
+  <text class="b" x="44" y="45" textLength="323" lengthAdjust="spacing" fill="#00E5FF" opacity=".85">WEAPONS_OF_CHOICE</text>
+  <text x="44" y="45" textLength="323" lengthAdjust="spacing" fill="#EAF6FF">WEAPONS_OF_CHOICE</text>
+</g>
+<rect class="bk" x="373" y="20" width="10" height="28" fill="#00E5FF"/>
+<text x="996" y="24" text-anchor="end" font-family="'Courier New', Courier, 'SF Mono', Consolas, monospace" font-size="12" fill="#9CC9FF">the tools I bribe into working</text>
+<line x1="397" y1="40" x2="996" y2="40" stroke="url(#ln)" stroke-width="2"/>
+<g stroke="#00E5FF" stroke-opacity=".55"><line x1="429" y1="40" x2="429" y2="50"/><line x1="469" y1="40" x2="469" y2="46"/><line x1="509" y1="40" x2="509" y2="50"/><line x1="549" y1="40" x2="549" y2="46"/><line x1="589" y1="40" x2="589" y2="50"/><line x1="629" y1="40" x2="629" y2="46"/><line x1="669" y1="40" x2="669" y2="50"/><line x1="709" y1="40" x2="709" y2="46"/><line x1="749" y1="40" x2="749" y2="50"/><line x1="789" y1="40" x2="789" y2="46"/><line x1="829" y1="40" x2="829" y2="50"/><line x1="869" y1="40" x2="869" y2="46"/><line x1="909" y1="40" x2="909" y2="50"/><line x1="949" y1="40" x2="949" y2="46"/><line x1="989" y1="40" x2="989" y2="50"/></g>
+<circle r="3.5" cy="40" fill="#fff"><animate attributeName="cx" values="397;996" dur="3.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="3.2s" repeatCount="indefinite"/></circle>
+</svg>
